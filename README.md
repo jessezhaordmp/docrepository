@@ -23,3 +23,12 @@ http://my.oschina.net/blackylin/blog/194612
 
 android签名机制（4）——签名过程简析
 http://my.oschina.net/blackylin/blog/207480
+
+3.Android程序的签名保护及绕过方法
+  http://blog.csdn.net/wulianghuan/article/details/22497621
+  
+  Android签名机制之---签名验证过程详解
+  http://blog.csdn.net/jiangwei0910410003/article/details/50443505
+  Android签名机制之---签名过程详解
+  http://blog.csdn.net/jiangwei0910410003/article/details/50402000
+  
