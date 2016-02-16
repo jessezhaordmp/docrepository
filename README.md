@@ -29,6 +29,7 @@ http://my.oschina.net/blackylin/blog/207480
   
   Android签名机制之---签名验证过程详解
   http://blog.csdn.net/jiangwei0910410003/article/details/50443505
+  
   Android签名机制之---签名过程详解
   http://blog.csdn.net/jiangwei0910410003/article/details/50402000
   
