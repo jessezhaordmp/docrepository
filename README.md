@@ -33,3 +33,13 @@ http://my.oschina.net/blackylin/blog/207480
   Android签名机制之---签名过程详解
   http://blog.csdn.net/jiangwei0910410003/article/details/50402000
   
+4.OpenSSL创建客户端、服务器证书，ios双向https认证 
+  http://blog.csdn.net/kamouswjw/article/details/39050995
+  
+  Tomcat配置https单向双向认证，iOS加密解密验证，iOS访问HTTPS 
+  http://blog.csdn.net/jerryvon/article/details/8548802?reload
+  
+  SSL构建单双向https认证！https部署及注意事项！
+  http://blog.chinaunix.net/uid-21808213-id-1989421.html
+  
+  
