@@ -42,4 +42,13 @@ http://my.oschina.net/blackylin/blog/207480
   SSL构建单双向https认证！https部署及注意事项！
   http://blog.chinaunix.net/uid-21808213-id-1989421.html
   
-  
+5.Android Https相关完全解析 当OkHttp遇到Https 
+ http://blog.csdn.net/lmj623565791/article/details/48129405
+ 
+ Android OkHttp完全解析 是时候来了解OkHttp了 
+ http://blog.csdn.net/lmj623565791/article/details/47911083
+
+
+----------------------------
+101： Android 热补丁动态修复框架小结 
+ http://blog.csdn.net/lmj623565791/article/details/49883661
